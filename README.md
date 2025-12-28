@@ -14,7 +14,7 @@
 ☕ Learning **Java** and backend technologies next  
 🔭 I’m working on real-world projects to sharpen my skills  
 💬 Ask me about anything frontend – I’d love to share  
-📫 Reach me at: aklilegebrel.gmail.com  <a href="https://wegen-portfolio.netlify.app">my portfolio</a>
+📫 Reach me at: aklilegebrel.gmail.com  <a href="https://new-wegen-portfolio.netlify.app">my portfolio</a>
 
 
 ---

@@ -23,7 +23,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,java,git,vscode" alt="My Skills" />
-  <img src="https://www.php.net/images/logos/php-elephant.svg" alt="PHP Elephant" width="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Php_elephant_logo.svg" alt="PHP Elephant" width="80" />
 </p>
 
 

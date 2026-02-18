@@ -22,8 +22,10 @@
 ### 🛠️ Tools & Technologies I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,java,php,git,vscode" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,java,git,vscode" alt="My Skills" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
+
 
 
 ---

@@ -1,8 +1,8 @@
 <!-- Profile README for GitHub -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=600&lines=Hi+there+👋%2C+I'm+Wegen+Geremew!" alt="Typing animation" />
 </p>
-
 
 <h3 align="center">Aspiring Full Stack Developer | Frontend Complete | Currently Diving into Backend</h3>
 
@@ -14,8 +14,9 @@
 ☕ Learning **Java** and backend technologies next  
 🔭 I’m working on real-world projects to sharpen my skills  
 💬 Ask me about anything frontend – I’d love to share  
-📫 Reach me at: aklilegebrel.gmail.com  <a href="[(https://wegen-portfolio.netlify.app/)]">my portfolio</a>
 
+📫 Reach me at: **aklilegebrel@gmail.com**  
+🌐 <a href="https://wegen-portfolio.netlify.app/" target="_blank">My Portfolio</a>
 
 ---
 
@@ -25,16 +26,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,java,php,git,vscode" alt="My Skills" />
 </p>
 
-
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -42,7 +41,7 @@
 ### 🔗 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/wegen Geremew" target="_blank">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aklilegebrel@gmail.com" target="_blank">
@@ -53,4 +52,3 @@
 ---
 
 <p align="center">✨ Thanks for visiting my profile! Keep building and keep learning. 🚀</p>
-

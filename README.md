@@ -11,7 +11,7 @@
 🌱 I’m currently learning **Full Stack Web Development**  
 💻 I've completed the **Frontend journey** with:  
 → **HTML**, **CSS**, **Tailwind CSS**, **JavaScript**, **React**  
-☕ Learning **Java** and backend technologies next  
+☕ Learning **Java**,**PHP** and backend technologies next  
 🔭 I’m working on real-world projects to sharpen my skills  
 💬 Ask me about anything frontend – I’d love to share  
 
